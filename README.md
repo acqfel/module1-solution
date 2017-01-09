@@ -1,4 +1,3 @@
-# module1-solution
 Angular Code
 
 Lunch Checker
